@@ -295,7 +295,7 @@ public class SpellChecker {
     }
 
     public static void main(String[] args) {
-        String filepath = "C:/Users/Bakr/OneDrive/Documents/words.txt";
+        String filepath = "C:/Users/Asum9/OneDrive/Documents/words.txt";
         SpellChecker spellChecker;
         try {
             spellChecker = new SpellChecker(filepath);
